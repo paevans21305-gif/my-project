@@ -1,0 +1,78 @@
+<html>
+<head>
+<title> St. Cecelio Leaving ceremonies</title>
+<style>
+    body {
+      background-image: url("https://www.shutterstock.com/image-photo/chalk-texture-600nw-427025854.jpg"); 
+      background-size: cover; 
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  </style>
+</head>
+<body>
+<u> <h1 style="text-align:center;font-family:Brush Script MT;"> WELCOME TO FIFTH FORM </h1> </u>
+<u><h3 style="font-family:times new roman;"> <b>THE CXC PROGRAMME</b> </h3> </u>
+<p style="font-size:18px"> The Caribbean Secondary Education Certificate (CSEC) examination is offered in January for re-sit and private candidates and in May/June for in-school candidates and private candidates.
+<br>
+CSEC subjects are examined for certification at the General and Technical Proficiencies. The General and Technical Proficiencies provide students with the foundation for further studies and entry to the workplace.
+The Council now offers a total of 33 subjects, that is, 28 subjects at General Proficiency and 5 at Technical Proficiency.
+<br>
+The six-point grading scheme reports on the performance of the candidate under six overall and profile grades as follows:
+<ul>
+<li>Overall grades – I, II, III, IV, V, VI</li>
+
+<li>Profile grades – A, B, C, D, E, F</li>
+</ul>
+<p style="font-size:18px">
+<b> The Council has advised tertiary institutions and Ministries of Education in participating territories that Grades I – III at the General and Technical Proficiencies should be considered as satisfying the matriculation requirement for four-year programmes at universities and entry requirement to community colleges, teachers’ colleges and any tertiary institution offering post-secondary programmes.<b>
+</p>
+<br>
+<a href="https://www.cxc.org/exam/csec/" target="_blank"> Click here for the full list of CSEC subjects<a>
+</p>
+<u> <h3 style="font-family:times new roman;<p style="font-size:18px"> GRADUATION REQUIREMENTS </h3> </u>
+<ul>
+<li> minimum of fifty percent (50%) average in fourth and fifth form</li>
+<li> All SBAs completed and submitted</li>
+<li> Eight  (8) subjects sat in enternal examination or all subjects recommended by Principal/Vice principal(s).</li>
+<li> high standards of behaviour and dress </li>
+</ul>
+<br>
+<u> <h3 style="font-family:times new roman;"> FORM TEACHERS AND PARENT REPRESENTATIVES</u>
+<br>
+<br>
+<table>
+  <tr>
+    <th>Form</th>
+    <th>Teacher</th>
+    <th>Parent Representative</th>
+  </tr>
+  <tr>
+    <td>4a</td>
+    <td>Miss Brown</td>
+    <td>Mrs Williams</td>
+  </tr>
+  <tr>
+    <td>4b</td>
+    <td>Mrs Powell</td>
+    <td>Mr Samuels </td>
+  </tr>
+  <tr>
+    <td>4c</td>
+    <td>Mr Bailey</td>
+    <td>Miss Clarke</td>
+</table>
+<h3 style="font-family:times new roman;"> CLICK THE IMAGE DOWN BELOW TO DOWNLOAD A COPY OF OUR SCHOOL'S CREST </h3>
+<a href="https://www.canva.com/design/DAGjJIPl6fg/zIrJikMprdKFekPjdCpBsQ/edit" target="_blank">
+  <img src="images/crest.png" alt="St Cecelio High School crest" style="width:200px;height:200px;">
+</a>
+<h4 style="font-family:times new roman;"> SEE HELPFUL LINKS BELOW <h4> 
+<a href="mailto:paevans21305@sahs.edu.jm?subject=Inquiry" target="_blank">Have any questions? send me an email. </a>
+<br>
+<a href="https://sahs.edu.jm/" target="_blank"> Link to our school's website<a>
+
+
+
+
+
+
